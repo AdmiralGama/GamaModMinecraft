@@ -1,0 +1,26 @@
+{
+	"block.gamamod.example_block": "Example Block",
+	
+	"item.gamamod.copper_pick": "Copper Pickaxe",
+	"item.gamamod.copper_axe": "Copper Axe",
+	"item.gamamod.copper_shovel": "Copper Shovel",
+	"item.gamamod.copper_hoe": "Copper Hoe",
+	"item.gamamod.copper_sword": "Copper Sword",
+	
+	"item.gamamod.steel_ingot": "Steel Ingot",
+	"item.gamamod.steel_pick": "Steel Pickaxe",
+	"item.gamamod.steel_axe": "Steel Axe",
+	"item.gamamod.steel_shovel": "Steel Shovel",
+	"item.gamamod.steel_hoe": "Steel Hoe",
+	"item.gamamod.steel_sword": "Steel Sword",
+	
+	"item.gamamod.copper_helmet": "Copper Helmet",
+	"item.gamamod.copper_chestplate": "Copper Chestplate",
+	"item.gamamod.copper_leggings": "Copper Leggings",
+	"item.gamamod.copper_boots": "Copper Boots",
+	
+	"item.gamamod.steel_helmet": "Steel Helmet",
+	"item.gamamod.steel_chestplate": "Steel Chestplate",
+	"item.gamamod.steel_leggings": "Steel Leggings",
+	"item.gamamod.steel_boots": "Steel Boots"
+}

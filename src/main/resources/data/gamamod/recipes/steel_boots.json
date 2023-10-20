@@ -1,0 +1,15 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "X X",
+        "X X"
+    ],
+    "key": {
+        "X": {
+            "item": "gamamod:steel_ingot"
+        }
+    },
+    "result": {
+        "item": "gamamod:steel_boots"
+    }
+}

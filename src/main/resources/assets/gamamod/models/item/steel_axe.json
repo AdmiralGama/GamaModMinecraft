@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/handheld",
+  "textures": {
+	  "layer0": "gamamod:item/steel_axe"
+  }
+}
